@@ -1,5 +1,5 @@
 [project]
-name = "hyprld"
+name = "hyprctl"
 version = "1.0.1"
 authors = [
     { name="MoxForever", email="moxforever10@gmail.com" },
